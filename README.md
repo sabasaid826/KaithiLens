@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👁️ KaithiLens 📜
+# 📜 KaithiLens 👁️
 
 ### *Restoring Forgotten History through AI*
 
